@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center"> 
-    <a href="https://ribhav-jain.github.io/Real-Estate-Price-Prediction" target="_blank">
+    <a href="https://github.com/ribhav-jain/Real-Estate-Price-Prediction" target="_blank">
     <img src="images/Prediction.png"></img>
   </a>
 </p>
